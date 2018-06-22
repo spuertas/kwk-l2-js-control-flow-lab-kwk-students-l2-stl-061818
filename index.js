@@ -17,12 +17,12 @@ function ternaryCheckCity(city) {
 }
 function switchOnCharmFromTip() {
   switch () {
-    case 0:
-        day = "Sunday";
-        break;
-    case 1:
-        day = "Monday";
-        break;
+    case "generous":
+        let response = "Thank you so much.";
+        return response;
+    case 'not as generous':
+        let response = 'Thank you.';
+        return response;
     case 2:
         day = "Tuesday";
         break;
