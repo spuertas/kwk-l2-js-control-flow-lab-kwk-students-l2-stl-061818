@@ -21,10 +21,10 @@ function switchOnCharmFromTip(tip) {
         let response = "Thank you so much.";
         return response;
     case 'not as generous':
-        let response = 'Thank you.';
-        return response;
+        let response2 = 'Thank you.';
+        return response2;
     case 'thanks for everything':
-        let response = "Bye.";
-        return response;
+        let response3 = "Bye.";
+        return response3;
   }
 }
