@@ -11,6 +11,7 @@ function scuberGreetingForFeet(someValue) {
   }
 }
 function ternaryCheckCity() {
+  //var voteable = (age < 18) ? "Too young":"Old enough";
   
 }
 // function switchOnCharmFromTip() {
