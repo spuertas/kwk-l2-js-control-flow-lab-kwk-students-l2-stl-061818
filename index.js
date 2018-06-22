@@ -10,9 +10,9 @@ function scuberGreetingForFeet(someValue) {
     return "No can do."
   }
 }
-function ternaryCheckCity(input) {
+function ternaryCheckCity(city) {
   //var voteable = (age < 18) ? "Too young":"Old enough";
-  let location = (input==="NYC") ? "Ok, sounds good.":"No go.";
+  let location = (city==="NYC") ? "Ok, sounds good.":"No go.";
 }
 // function switchOnCharmFromTip() {
   
