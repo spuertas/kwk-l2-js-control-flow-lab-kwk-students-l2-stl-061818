@@ -13,6 +13,7 @@ function scuberGreetingForFeet(someValue) {
 function ternaryCheckCity(city) {
   //var voteable = (age < 18) ? "Too young":"Old enough";
   let location = (city==="NYC") ? "Ok, sounds good.":"No go.";
+  return location;
 }
 // function switchOnCharmFromTip() {
   
