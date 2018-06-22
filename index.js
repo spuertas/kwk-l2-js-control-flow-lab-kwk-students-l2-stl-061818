@@ -10,9 +10,9 @@ function scuberGreetingForFeet(someValue) {
     return "No can do."
   }
 }
-function ternaryCheckCity() {
+// function ternaryCheckCity() {
   
-}
-function switchOnCharmFromTip() {
+// }
+// function switchOnCharmFromTip() {
   
-}
+// }
