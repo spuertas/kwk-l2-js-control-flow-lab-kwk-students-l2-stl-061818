@@ -3,8 +3,8 @@ function scuberGreetingForFeet(someValue) {
   if (someValue <= 400) {
     return "This one is on me!"
   }
-  else {
-    //don't give free sample
+  else if (someValue > 2000) {
+    return "I will gladly take your thirty bucks."
   }
   // it('charges 30 dollars for a distance over 2000 feet', function () {
   //     expect(scuberGreetingForFeet(2001)).to.equal('I will gladly take your thirty bucks.');
