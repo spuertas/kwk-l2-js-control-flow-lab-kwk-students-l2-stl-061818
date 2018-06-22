@@ -27,7 +27,3 @@ function switchOnCharmFromTip() {
         let response = "Bye.";
         return response;
 }
-
-    it('should return "Bye." if anything else', function () {
-      expect(switchOnCharmFromTip('thanks for everything')).to.equal('Bye.');
-    });
